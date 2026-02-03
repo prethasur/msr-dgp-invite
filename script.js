@@ -317,7 +317,7 @@ generateBtn.addEventListener("click", async () => {
   const bubbleH = 211;
 
   // Text settings: larger + optically centered
-  const inviteText = `${name} invites you to join Mahashivratri Celebrations in Kolkata`;
+  const inviteText = `${name} invites you to join Mahashivratri Celebrations in Durgapur`;
 
   const pad = 18; // smaller pad => more room
   const innerX = bubbleX + pad;
